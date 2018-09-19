@@ -1,0 +1,6 @@
+#!/bin/bash
+echo export ARCH=arm64
+echo export CROSS_COMPILE=aarch64-linux-gnu-
+echo PATH=$PATH:/mnt/AllData/hacking/toolchain/gcc-linaro-5.2-2015.11-2-x86_64_aarch64-linux-gnu/bin; echo export PATH
+
+
